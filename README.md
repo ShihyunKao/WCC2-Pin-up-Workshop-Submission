@@ -1,15 +1,21 @@
 # Echoes of Poetry
+**Date:** 26 January 2026  
+**Author:** Shihyun Kao
 
 ## Project Description
 An interactive audiovisual system that transforms the act of typing into a poetic, generative landscape, exploring themes of impermanence and digital mindfulness.
 
 ## How to Run
 1. Download this repository.
-2. Open `index.html` in a browser.
+2. Open the "index.html" file in your browser or visit the link https://shihyunkao.github.io/WCC2-Pin-up-Workshop-Submission/.
 
 ## Equipment List
 * MacBook Pro
 * Monitor (for church setup)
+
+## Contact / Links
+https://shihyunkao.github.io/WCC2-Pin-up-Workshop-Submission/
+https://github.com/ShihyunKao/WCC2-Pin-up-Workshop-Submission
 
 ## Documentation
 ### Work Screenshot
